@@ -1,0 +1,1 @@
+a calculator script stolen from an old project
