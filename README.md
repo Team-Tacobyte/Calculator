@@ -1,1 +1,1 @@
-a calculator script stolen from an old project
+a calculator script stolen from TacoByte website
